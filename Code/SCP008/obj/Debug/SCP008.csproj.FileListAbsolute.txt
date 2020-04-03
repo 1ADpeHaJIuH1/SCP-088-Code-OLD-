@@ -1,0 +1,5 @@
+C:\Users\terrific user\Desktop\SCP088-1.5-0\Build\SCP008.dll
+C:\Users\terrific user\Desktop\SCP088-1.5-0\Build\SCP008.pdb
+C:\Users\terrific user\Desktop\SCP088-1.5-0\SCP008\obj\Debug\SCP008.csprojAssemblyReference.cache
+C:\Users\terrific user\Desktop\SCP088-1.5-0\SCP008\obj\Debug\SCP008.dll
+C:\Users\terrific user\Desktop\SCP088-1.5-0\SCP008\obj\Debug\SCP008.pdb
